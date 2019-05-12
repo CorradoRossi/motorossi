@@ -1,1 +1,1 @@
-My landing page and portfolio at motorossi.me
+Landing page and partial portfolio for [MotoRossi](https://motorossi.me)
